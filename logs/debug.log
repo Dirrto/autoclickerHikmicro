@@ -1,0 +1,282 @@
+2025-12-18 10:39:23,356 [INFO] Iniciando auto-press script
+2025-12-18 10:39:24,621 [INFO] Pulsado botón via pywinauto: pywinauto-button-generic
+2025-12-18 10:39:31,849 [INFO] Pulsado botón via pywinauto: pywinauto-button-generic
+2025-12-18 10:39:39,072 [ERROR] find_and_click_template error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\auto_press_hikmicro.py", line 119, in find_and_click_template
+    img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-12-18 10:39:39,073 [INFO] No encontrado (template best_conf=0.0000)
+2025-12-18 10:39:46,314 [ERROR] find_and_click_template error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\auto_press_hikmicro.py", line 119, in find_and_click_template
+    img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-12-18 10:39:46,315 [INFO] No encontrado (template best_conf=0.0000)
+2025-12-18 10:39:53,455 [ERROR] find_and_click_template error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\auto_press_hikmicro.py", line 119, in find_and_click_template
+    img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-12-18 10:39:53,456 [INFO] No encontrado (template best_conf=0.0000)
+2025-12-18 10:39:59,948 [ERROR] find_and_click_template error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\auto_press_hikmicro.py", line 119, in find_and_click_template
+    img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-12-18 10:39:59,949 [INFO] No encontrado (template best_conf=0.0000)
+2025-12-18 10:40:07,496 [INFO] Pulsado botón via pywinauto: pywinauto-button-generic
+2025-12-18 10:40:14,611 [ERROR] find_and_click_template error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\auto_press_hikmicro.py", line 119, in find_and_click_template
+    img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-12-18 10:40:14,612 [INFO] No encontrado (template best_conf=0.0000)
+2025-12-18 10:40:21,598 [ERROR] find_and_click_template error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\auto_press_hikmicro.py", line 119, in find_and_click_template
+    img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-12-18 10:40:21,600 [INFO] No encontrado (template best_conf=0.0000)
+2025-12-18 10:40:28,610 [ERROR] find_and_click_template error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\auto_press_hikmicro.py", line 119, in find_and_click_template
+    img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-12-18 10:40:28,611 [INFO] No encontrado (template best_conf=0.0000)
+2025-12-18 10:40:35,600 [ERROR] find_and_click_template error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\auto_press_hikmicro.py", line 119, in find_and_click_template
+    img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-12-18 10:40:35,601 [INFO] No encontrado (template best_conf=0.0000)
+2025-12-18 10:40:42,730 [INFO] Pulsado botón via pywinauto: pywinauto-button-generic
+2025-12-18 10:40:49,839 [ERROR] find_and_click_template error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\auto_press_hikmicro.py", line 119, in find_and_click_template
+    img_cv = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
+cv2.error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\color.cpp:199: error: (-215:Assertion failed) !_src.empty() in function 'cv::cvtColor'
+
+2025-12-18 10:40:49,840 [INFO] No encontrado (template best_conf=0.0000)
+2025-12-18 10:40:56,977 [INFO] Pulsado botón via pywinauto: pywinauto-button-generic
+2025-12-18 10:41:02,764 [INFO] Interrupción manual, cerrando.
+2025-12-18 10:56:50,467 [INFO] Inicio del script
+2025-12-18 10:56:51,245 [INFO] Acción exitosa: invoke-Iniciar
+2025-12-18 10:56:58,121 [INFO] Acción exitosa: invoke-Pausa
+2025-12-18 10:57:03,871 [INFO] Acción exitosa: invoke-Iniciar
+2025-12-18 10:57:10,747 [INFO] Acción exitosa: invoke-Pausa
+2025-12-18 10:57:16,485 [INFO] Acción exitosa: invoke-Iniciar
+2025-12-18 10:57:23,355 [INFO] Acción exitosa: invoke-Pausa
+2025-12-18 10:57:29,126 [INFO] Acción exitosa: invoke-Iniciar
+2025-12-18 10:57:36,058 [INFO] Acción exitosa: invoke-Pausa
+2025-12-18 10:57:41,795 [INFO] Acción exitosa: invoke-Iniciar
+2025-12-18 10:57:44,789 [INFO] Script detenido manualmente
+2025-12-18 10:58:29,521 [INFO] Inicio del script
+2025-12-18 10:58:29,648 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 117, in main_loop
+    success, note = template_match_and_click(win)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 75, in template_match_and_click
+    raise RuntimeError("No se pudo cargar el template")
+RuntimeError: No se pudo cargar el template
+2025-12-18 10:58:39,755 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 117, in main_loop
+    success, note = template_match_and_click(win)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 75, in template_match_and_click
+    raise RuntimeError("No se pudo cargar el template")
+RuntimeError: No se pudo cargar el template
+2025-12-18 10:58:49,858 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 117, in main_loop
+    success, note = template_match_and_click(win)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 75, in template_match_and_click
+    raise RuntimeError("No se pudo cargar el template")
+RuntimeError: No se pudo cargar el template
+2025-12-18 10:58:59,964 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 117, in main_loop
+    success, note = template_match_and_click(win)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 75, in template_match_and_click
+    raise RuntimeError("No se pudo cargar el template")
+RuntimeError: No se pudo cargar el template
+2025-12-18 10:59:10,114 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 117, in main_loop
+    success, note = template_match_and_click(win)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 75, in template_match_and_click
+    raise RuntimeError("No se pudo cargar el template")
+RuntimeError: No se pudo cargar el template
+2025-12-18 11:05:11,349 [INFO] Inicio del script
+2025-12-18 11:05:11,963 [INFO] clicked (1.00)
+2025-12-18 11:05:17,592 [INFO] clicked (1.00)
+2025-12-18 11:05:23,221 [INFO] clicked (1.00)
+2025-12-18 11:05:28,848 [INFO] clicked (1.00)
+2025-12-18 11:05:34,441 [INFO] clicked (1.00)
+2025-12-18 11:05:40,052 [INFO] clicked (1.00)
+2025-12-18 11:05:45,631 [INFO] clicked (1.00)
+2025-12-18 11:05:51,224 [INFO] clicked (1.00)
+2025-12-18 11:05:56,820 [INFO] clicked (1.00)
+2025-12-18 11:06:02,414 [INFO] clicked (1.00)
+2025-12-18 11:06:08,025 [INFO] clicked (1.00)
+2025-12-18 11:06:13,652 [INFO] clicked (1.00)
+2025-12-18 11:06:19,264 [INFO] clicked (1.00)
+2025-12-18 11:07:48,636 [INFO] Inicio del script
+2025-12-18 11:07:49,311 [INFO] no-match (0.64)
+2025-12-18 11:07:54,430 [INFO] no-match (0.64)
+2025-12-18 11:08:00,014 [INFO] clicked (1.00)
+2025-12-18 11:08:05,625 [INFO] clicked (1.00)
+2025-12-18 11:08:11,218 [INFO] clicked (1.00)
+2025-12-18 11:08:16,863 [INFO] clicked (0.99)
+2025-12-18 11:30:11,137 [INFO] Inicio del script
+2025-12-18 11:30:11,773 [INFO] clicked (1.00)
+2025-12-18 11:30:17,369 [INFO] clicked (1.00)
+2025-12-18 11:30:22,962 [INFO] clicked (1.00)
+2025-12-18 11:30:54,616 [INFO] Inicio del script
+2025-12-18 11:30:55,779 [INFO] clicked (1.00)
+2025-12-18 11:31:01,360 [INFO] clicked (1.00)
+2025-12-18 11:31:06,952 [INFO] clicked (1.00)
+2025-12-18 11:31:12,535 [INFO] clicked (1.00)
+2025-12-18 11:31:18,112 [INFO] clicked (1.00)
+2025-12-18 11:31:23,687 [INFO] clicked (1.00)
+2025-12-18 11:31:29,279 [INFO] clicked (1.00)
+2025-12-18 11:31:34,862 [INFO] clicked (1.00)
+2025-12-18 11:31:40,441 [INFO] clicked (1.00)
+2025-12-18 11:31:46,029 [INFO] clicked (1.00)
+2025-12-18 11:31:51,594 [INFO] clicked (1.00)
+2025-12-18 11:31:57,176 [INFO] clicked (1.00)
+2025-12-18 11:35:42,463 [INFO] Inicio del script
+2025-12-18 11:35:43,113 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:35:53,704 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:36:04,292 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:36:53,309 [INFO] Inicio del script
+2025-12-18 11:36:53,960 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:37:04,548 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:37:15,138 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:37:25,729 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:37:36,317 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:37:46,908 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:37:57,497 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:38:08,092 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:38:18,693 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:38:29,281 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:38:39,871 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:38:50,461 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:39:01,051 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:39:11,641 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:39:22,228 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:39:32,819 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
+2025-12-18 11:39:43,407 [ERROR] Error en loop principal
+Traceback (most recent call last):
+  File "C:\Users\diego\OneDrive\Imágenes\HickmicroTest\test_reloj_template_match.py", line 127, in main_loop
+    success, note = template_match_and_click(win)
+    ^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable bool object
