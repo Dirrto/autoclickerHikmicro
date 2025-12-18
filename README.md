@@ -15,5 +15,4 @@ pensado para aplicaciones sin API (ej: Hikmicro).
 - Pantalla activa (no bloqueada)
 
 ## Instalación
-```bash
-pip install -r requirements.txt
+Seguir pasos de READMEandINSTALL.ipynb
